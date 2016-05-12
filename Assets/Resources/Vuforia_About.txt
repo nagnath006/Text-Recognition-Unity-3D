@@ -1,0 +1,17 @@
+﻿The Text Reco sample shows dynamic recognition of English words within a specified region of the camera frame.
+
+Key Functionality
+- Detection and tracking of English words included in default word list
+
+Targets
+https://developer.vuforia.com/resources/dev-guide/word-targets
+
+Instructions
+- Point camera at text to recognize
+- Single tap to focus
+- Double tap to access options menu
+
+Terms of Use
+https://developer.vuforia.com/legal/EULA
+
+© 2012-2015 Qualcomm Connected Experiences, Inc. All Rights Reserved.
